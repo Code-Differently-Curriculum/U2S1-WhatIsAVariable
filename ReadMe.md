@@ -133,4 +133,13 @@ Use this template for a [Properties and Behaviors Table](./documents/PropsAndBeh
 
 Once approved , complete the assignment.
 
+
+# How to turn in assignment
+
+In the terminal type the following:
+```
+git add .
+git commit -m" Completed assignment "
+git push origin main
+```
 Happy Coding!!!
