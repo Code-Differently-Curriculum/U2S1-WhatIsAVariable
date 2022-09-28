@@ -1,7 +1,7 @@
 # Return Ready Lab 07
 
 * Part A - Foundations 3.1
-* Part C - Instructor Challenge
+* Part B - Student Challenge
 
 
 ## Part A
