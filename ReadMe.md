@@ -1,4 +1,4 @@
-# Return Ready Lab 07
+# U2S1 - What is a Variable
 
 * Part A - Foundations 3.1
 * Part B - Student Challenge
