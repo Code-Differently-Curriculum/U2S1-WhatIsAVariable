@@ -149,7 +149,6 @@ fabric.properties
 .project
 .settings
 
-
 #maven build target
 target/
 
