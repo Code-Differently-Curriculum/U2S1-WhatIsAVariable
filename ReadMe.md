@@ -7,16 +7,18 @@
 ## Part A
 
 In the file `Variables01` :
+1. Run the code
+2. Comment each line of code
 
-RUN THE PROGRAM BETWEEN EACH STEP AND OBSERVE THE OUTPUT
-
-1.  Change the print statements in lines 12 and 16 so that they print the value of x.
-2. Change the value of x to "kitty".
 
 In the file `Variables02`:
 
-* Comment each line of code
-* Review with class
+RUN THE PROGRAM BETWEEN EACH STEP AND OBSERVE THE OUTPUT
+
+1. Change the print statements in lines 12 and 16 so that they print the value of x.
+2. Change the value of x to "kitty". 
+3. Comment each line of code
+
 
 In the file `Variables03`:
 
